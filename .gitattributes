@@ -1,1 +1,5 @@
-*.js linguist-language=Dart
+*.h linguist-language=Dart
+*.m linguist-language=Dart
+*.java linguist-language=Dart
+*.xml linguist-language=Dart
+*.gradle linguist-language=Dart
