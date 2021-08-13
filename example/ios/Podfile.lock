@@ -1,0 +1,36 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_customized_scan (0.0.1):
+    - Flutter
+    - ScanKitFrameWork
+  - "permission_handler (5.1.0+2)":
+    - Flutter
+  - ScanKitFrameWork (1.0.2.300)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_customized_scan (from `.symlinks/plugins/flutter_customized_scan/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - ScanKitFrameWork (= 1.0.2.300)
+
+SPEC REPOS:
+  trunk:
+    - ScanKitFrameWork
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_customized_scan:
+    :path: ".symlinks/plugins/flutter_customized_scan/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  flutter_customized_scan: 2ee72ff3abc45e75310cd0e740831fd4790a93d6
+  permission_handler: ccb20a9fad0ee9b1314a52b70b76b473c5f8dab0
+  ScanKitFrameWork: 0ad578f3db0ef9b64dd0f533d10d10a52ce93c80
+
+PODFILE CHECKSUM: a8e67592ce2abfdac99c524078ef867e8bbddac4
+
+COCOAPODS: 1.10.1
