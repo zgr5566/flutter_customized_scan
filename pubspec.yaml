@@ -1,7 +1,7 @@
 name: flutter_customized_scan
 description: 二维码扫描
 version: 1.0.0
-author: zgr
+homepage: https://github.com/zgr5566/flutter_customized_scan
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
